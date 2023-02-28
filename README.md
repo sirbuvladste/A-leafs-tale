@@ -7,6 +7,7 @@
 - movement on the map of the player
 - calculating the path he can take based on movement points
 - a foundation for making a map manually or by generation using hexagons
+a welcome menu and settings
 
 ### What needs to be done:
 - player movement
@@ -14,5 +15,4 @@
 - enemies
 - movement of enemies on the map
 - UI
-- a welcome menu and settings
 - and assets/design for enemies, players, items
